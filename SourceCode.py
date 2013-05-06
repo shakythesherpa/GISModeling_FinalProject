@@ -1,6 +1,6 @@
 """
 Shaky Sherpa
-Gis Modeling and Problem Solving
+GIS Modeling and Problem Solving
 Final Project: 
 This excercise is based on a conceptual framework of Cellular Automata and Agent Based Models available 
 """
