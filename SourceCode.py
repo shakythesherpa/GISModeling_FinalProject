@@ -5,6 +5,8 @@ Final Project:
 This excercise is based on a conceptual framework of Cellular Automata and Agent Based Models available 
 """
 
+import numpy as np
+import simplegui
 from Tkinter import END
 from CellWorld import CellWorld
 from World import Animal, Interpreter
