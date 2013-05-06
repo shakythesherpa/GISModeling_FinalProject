@@ -11,7 +11,7 @@ from Tkinter import END
 from CellWorld import CellWorld
 from World import Animal, Interpreter
 
-class TurmiteWorld(CellWorld):
+class AntWorld(CellWorld):
     """Provides a grid of cells that Turmites occupy."""
 
     def __init__(self, canvas_size=600, cell_size=10):
@@ -151,5 +151,5 @@ def rotate(v, n=1):
 
 
 if __name__ == '__main__':
-    world = TurmiteWorld()
+    world = AntWorld()
     world.mainloop()
